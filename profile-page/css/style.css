@@ -1,5 +1,5 @@
 body{
-    background-color: #B5D5C5;
+    background-color: none;
 }
 hr{
     background-color: none;
@@ -11,4 +11,8 @@ hr{
 img{
     height: 200px;
     width: 200px;
+}
+
+h1, h3{
+    color: #439A97;
 }
