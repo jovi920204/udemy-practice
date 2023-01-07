@@ -1,16 +1,31 @@
+a{
+    color: #11999E;
+}
 body{
     margin: 0;
-    /* background-color: blue; */
     text-align: center;
+    font-family: 'Merriweather', serif;
 }
-/* div{
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
+    font-size: 2.5rem;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+.img-profile, .img-skill1, .img-skill2{
     width: 200px;
     height: 200px;
-} */
-h1{
-    margin: 0 auto;
 }
-
 .top-container{
     background-color: #BFEAF5;
     padding-top: 50px;
@@ -18,19 +33,11 @@ h1{
     padding: 20px; */
 }
 .middle-container{
-    background-color: red;
-    width: 200px;
-    height: 200px;
-    /* border: solid 20px;
-    margin-left: 260px; */
+
 
 }
 .bottom-container{
-    background-color: yellow;
-    width: 200px;
-    height: 200px;
-    /* border: solid 10px;
-    margin-left: 500px; */
+
 }
 .pro{
     text-decoration: underline;
